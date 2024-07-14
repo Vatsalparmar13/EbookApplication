@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EbookReader</string>
+    <string name="home">Home</string>
+    <string name="profile">Profie</string>
+    <string name="share">Share</string>
+    <string name="logout">Logut</string>
+</resources>
